@@ -26,7 +26,7 @@ async def parsing_link(page: int, proxy=None) -> None:
 		title = i.text.strip()
 		lk = i.get("href")
 		with open("link_list.txt", "a") as file:
-			file.write("{}:{}\n".format(title, link)
+			file.write("{}:{}\n".format(title, link))
 		print(COUNT, title, lk)
 		COUNT += 1
 	print("PAGE: ", page)

@@ -1,2 +1,2 @@
 # arzon_link_parsing
-![Fuxion logo](https://github.com/ubuntutj/arzon_link_parsing/blob/master/images/photo.png)
+![ubuntu logo](https://github.com/ubuntutj/arzon_link_parsing/blob/master/images/photo.png)

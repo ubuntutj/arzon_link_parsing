@@ -5,3 +5,6 @@
 <b>
   Как запустить скрипт?
 </b>
+```
+git clone https://github.com/ubuntutj/arzon_link_parsing.git
+```

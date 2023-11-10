@@ -7,4 +7,5 @@
 
 ```
 git clone https://github.com/ubuntutj/arzon_link_parsing.git
+cd arzon_link_parsing
 ```
